@@ -326,6 +326,7 @@ header {
   flex-shrink: 0;
   width: auto !important;
   flex-grow: 0;
+  max-width: 350px !important;
 }
 
   
@@ -403,7 +404,7 @@ header {
   overflow: hidden;
   text-overflow: ellipsis;
   max-height: 3.6em; 
-  line-height: 1.8em;
+  line-height: 1.2em;
   font-size: 16px; 
   max-width: 100%;
 }
@@ -544,6 +545,7 @@ header {
 .sidebar-h button{
   border: none;
   background-color: white;
+  margin-bottom: 8px;
 }
 
 .sidebar-content h1:hover{

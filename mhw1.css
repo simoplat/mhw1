@@ -547,7 +547,6 @@ header {
 }
 
 .sidebar-content h1:hover{
-  color: red;
   transition: color 0.2s ease-in-out;
   transition: text-decoration 0.2s ease-in-out;
   text-decoration: underline;

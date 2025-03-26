@@ -229,13 +229,7 @@ header {
     display: none;
   }
 
-  .video-layout{
-    padding: 0px !important;
-  }
 
-  .video-content{
-    align-items: center;
-  }
 
   .central-layout {
     left: 0 !important;

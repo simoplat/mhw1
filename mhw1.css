@@ -240,15 +240,7 @@ header {
     margin-bottom: 20px !important;
   }
 
-  .video-layout {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 15px;
-    padding-bottom: 40% !important;
-    justify-content: center;
-  }
 
-  
   .mobile-navbar{
     display: flex !important;
     align-items: center;
